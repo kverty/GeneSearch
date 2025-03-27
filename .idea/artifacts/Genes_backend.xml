@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Genes-backend">
+    <output-path>$PROJECT_DIR$/build/libs</output-path>
+    <root id="archive" name="Genes-backend.jar" />
+  </artifact>
+</component>
